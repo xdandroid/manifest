@@ -134,7 +134,7 @@
   <project path="packages/apps/Launcher" name="platform/packages/apps/Launcher" /> 
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" /> 
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" /> 
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" /> 
+  <project path="packages/apps/Music" name="xdandroid-eclair/xdandroid-packages_apps_music" remote="gitorious" /> 
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" /> 
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" /> 
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" /> 
@@ -146,7 +146,7 @@
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" /> 
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" /> 
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" /> 
-  <!-- <project path="packages/providers/CalendarProvider" name="xdandroid-eclair/xdandroid-packages_profilers_CalendarProvider" remote="gitorious" /> -->
+  <project path="packages/providers/CalendarProvider" name="xdandroid-eclair/xdandroid-packages_providers_calendarprovider" remote="gitorious" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" /> 
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" /> 
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" /> 
