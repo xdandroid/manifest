@@ -178,7 +178,7 @@
   <project path="vendor/htc/prebuilt-open" name="platform/vendor/htc/prebuilt-open" />
   <project path="vendor/htc/sapphire-open" name="platform/vendor/htc/sapphire-open" />
   <project path="vendor/pv-open" name="platform/vendor/pv-open" />
-  <project path="vendor/qcom/android-open" name="platform/vendor/qcom/android-open" />
+  <project path="vendor/qcom/android-open" name="xdandroid-eclair/xdandroid-vendor_qcom_android-open" remote="gitorious" />
   <project path="vendor/qcom/proprietary-open" name="xdandroid-eclair/xdandroid-vendor_qcom_proprietary-open" remote="gitorious" /> 
   <project path="vendor/sample" name="platform/vendor/sample" />
   <project path="vendor/xdandroid" name="xdandroid-eclair/xdandroid-vendor" remote="gitorious" />
