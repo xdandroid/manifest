@@ -181,4 +181,5 @@
   <project path="vendor/qcom/android-open" name="platform/vendor/qcom/android-open" />
   <project path="vendor/qcom/proprietary-open" name="xdandroid-eclair/xdandroid-vendor_qcom_proprietary-open" remote="gitorious" /> 
   <project path="vendor/sample" name="platform/vendor/sample" />
+  <project path="vendor/xdandroid" name="xdandroid-eclair/xdandroid-vendor" remote="gitorious />
 </manifest>
