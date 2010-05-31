@@ -3,7 +3,7 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
-  <default revision="master"
+  <default revision="eclair"
            remote="korg" />
 
   <remote name="github" fetch="git://github.com/" />
@@ -23,9 +23,9 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
 
-  <project path="device/htc/common" name="device/htc/common" />
-  <project path="device/htc/passion" name="device/htc/passion" />
-  <project path="device/htc/passion-common" name="device/htc/passion-common" />
+  <project path="device/htc/common" name="device/htc/common" revision="master" />
+  <project path="device/htc/passion" name="device/htc/passion" revision="master" />
+  <project path="device/htc/passion-common" name="device/htc/passion-common" revision="master" />
 
   <project path="external/aes" name="platform/external/aes" />
   <project path="external/apache-http" name="platform/external/apache-http" />
