@@ -169,7 +169,7 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
   <project path="system/extras" name="platform/system/extras" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/vold" name="platform/system/vold" revision="master" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
   <project path="vendor/aosp" name="platform/vendor/aosp" />
