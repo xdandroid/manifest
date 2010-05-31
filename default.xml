@@ -172,7 +172,7 @@
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
   <project path="vendor/aosp" name="platform/vendor/aosp" />
-  <project path="vendor/htc/common-open" name="platform/vendor/htc/common-open" remote="gitorious" />
+  <project path="vendor/htc/common-open" name="xdandroid-eclair/xdandroid-vendor_htc_common-open" remote="gitorious" />
   <project path="vendor/htc/dream-open" name="platform/vendor/htc/dream-open" />
   <project path="vendor/htc/prebuilt-open" name="platform/vendor/htc/prebuilt-open" />
   <project path="vendor/htc/sapphire-open" name="platform/vendor/htc/sapphire-open" />
