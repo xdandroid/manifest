@@ -110,7 +110,7 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/htc/dream" name="platform/hardware/htc/dream" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy.git" remote="gitorious" /> 
+  <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy" remote="gitorious" /> 
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/ril" name="platform/hardware/ril" />
