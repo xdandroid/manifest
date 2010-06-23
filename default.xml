@@ -181,4 +181,14 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
+  <project path="vendor/aosp" name="platform/vendor/aosp" revision="eclair" />
+  <project path="vendor/htc/common-open" name="platform/vendor/htc/common-open" revision="eclair" />
+  <project path="vendor/htc/dream-open" name="platform/vendor/htc/dream-open" revision="eclair" />
+  <project path="vendor/htc/prebuilt-open" name="platform/vendor/htc/prebuilt-open" revision="eclair" />
+  <project path="vendor/htc/sapphire-open" name="platform/vendor/htc/sapphire-open" revision="eclair" />
+  <project path="vendor/pv-open" name="platform/vendor/pv-open" revision="eclair" />
+  <project path="vendor/qcom/android-open" name="xdandroid-eclair/xdandroid-vendor_qcom_android-open" remote="gitorious" revision="eclair" />
+  <project path="vendor/qcom/proprietary-open" name="xdandroid-eclair/xdandroid-vendor_qcom_proprietary-open" remote="gitorious" revision="eclair" />
+  <project path="vendor/sample" name="platform/vendor/sample" revision="eclair" />
+  <project path="vendor/xdandroid" name="xdandroid-eclair/xdandroid-vendor" remote="gitorious" revision="master" />
 </manifest>
