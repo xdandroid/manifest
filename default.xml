@@ -117,7 +117,7 @@
   <project path="hardware/android-hardware" name="linux-on-qualcomm-s-msm/android-hardware" remote="gitorious" revision="master" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy" remote="gitorious" revision="master" />
+  <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy" remote="gitorious" revision="froyo" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/ril" name="platform/hardware/ril" />
