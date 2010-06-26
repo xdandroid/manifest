@@ -30,6 +30,7 @@
   <project path="device/htc/passion-common" name="device/htc/passion-common" />
   <project path="device/htc/sapphire" name="device/htc/sapphire" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/xdandroid" name="xdandroid-eclair/xdandroid-vendor_xdandroid" remote="gitorious" />
 
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
