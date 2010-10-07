@@ -8,7 +8,7 @@
 
   <remote  name="gitorious" fetch="git://gitorious.org/" />
 
-  <project path="build" name="platform/build">
+  <project path="build" name="xdandroid-eclair/xdandroid-build" remote="gitorious">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
