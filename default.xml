@@ -114,7 +114,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="platform/frameworks/policies/base" />
 
-  <project path="hardware/android-hardware" name="linux-on-qualcomm-s-msm/android-hardware" remote="gitorious" revision="master" />
+  <project path="hardware/android-hardware" name="~stinebd/xdandroid-android-hardware" remote="gitorious" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
   <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy" remote="gitorious" />
