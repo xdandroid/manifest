@@ -121,7 +121,7 @@
   <project path="hardware/msm7k" name="xdandroid-eclair/xdandroid-hardware_msm7k" remote="gitorious" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/ril" name="platform/hardware/ril" />
-  <project path="hardware/ril/android-htc-ril" name="linux-on-qualcomm-s-msm/android-htc-ril" remote="gitorious" revision="diamond" />
+  <project path="hardware/android-htc-ril" name="linux-on-qualcomm-s-msm/android-htc-ril" remote="gitorious" revision="diamond" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
