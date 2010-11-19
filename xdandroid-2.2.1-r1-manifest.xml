@@ -8,7 +8,7 @@
 
   <remote  name="gitorious" fetch="git://gitorious.org/" />
 
-  <project path="build" name="xdandroid-eclair/xdandroid-build" revision="b04fda7913b4d1817ed504b9d8e73049da2a4960" remote="gitorious">
+  <project path="build" name="xdandroid-eclair/xdandroid-build" revision="c55c58d27adf1c1a5bc22944d745b92d0ddd1395" remote="gitorious">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -30,7 +30,7 @@
   <project path="device/htc/passion-common" name="device/htc/passion-common" revision="27ce0868f3cc6c38a75dba46d0dae303108c020f" />
   <project path="device/htc/sapphire" name="device/htc/sapphire" revision="a79ff5bc49a4cc5b9e1d2b8748d72245a0294d87" />
   <project path="device/sample" name="device/sample" revision="b4b6fced74341091180b10529c509a7f2d9327fe" />
-  <project path="device/xdandroid" name="xdandroid-eclair/xdandroid-device_xdandroid" revision="835116de88ff2adf4fb6c540601cfa665bd829cf" remote="gitorious" />
+  <project path="device/xdandroid" name="xdandroid-eclair/xdandroid-device_xdandroid" revision="3dcc80f375a17ced6cab86f9e622ac7ebac25a85" remote="gitorious" />
 
   <project path="external/apache-http" name="platform/external/apache-http" revision="2e9f166eba309e50c1c1f52ff8d2694f058ab2cf" />
   <project path="external/astl" name="platform/external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c" />
