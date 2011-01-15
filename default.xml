@@ -124,7 +124,7 @@
   <project path="hardware/libhardware_legacy" name="~stinebd/linux-on-qualcomm-s-msm/xdandroid-2_1-libhardware_legacy" remote="gitorious" />
   <project path="hardware/msm7k" name="xdandroid-eclair/xdandroid-hardware_msm7k" remote="gitorious" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
-  <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
+  <project path="hardware/qcom/media" name="xdandroid-eclair/xdandroid-hardware_qcom_media" remote="gitorious" />
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/android-htc-ril" name="linux-on-qualcomm-s-msm/android-htc-ril" remote="gitorious" revision="diamond" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
