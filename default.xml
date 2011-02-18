@@ -128,6 +128,7 @@
   <project path="hardware/xdandroid-ril" name="xdandroid/hardware_xdandroid-ril" remote="gitorious" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
+  <project path="hardware/xdandroid/gps" name="xdandroid/hardware_xdandroid_gps" remote="gitorious" />
 
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
