@@ -148,7 +148,7 @@
   <project path="packages/apps/Gallery3D" name="xdandroid/packages_apps_Gallery3D" remote="gitorious" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
+  <project path="packages/apps/Mms" name="xdandroid/packages_apps_mms" remote="gitorious" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
@@ -183,13 +183,13 @@
 
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk"  revision="tools_r7"/>
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="xdandroid/system_bluetooth" remote="gitorious" />
   <project path="system/core" name="xdandroid/system_core" remote="gitorious" />
   <project path="system/extras" name="xdandroid/system_extras" remote="gitorious" />
   <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
-  <project path="system/wlan/ti" name="platform/system/wlan/ti" />
+  <project path="system/wlan/ti" name="xdandroid/system_wlan_ti" remote="gitorious" />
 
 </manifest>
