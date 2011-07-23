@@ -6,6 +6,7 @@
   <default revision="gingerbread"
            remote="korg" />
 
+  <remote  name="github" fetch="git://github.com/" />
   <remote  name="gitorious" fetch="git://gitorious.org/" />
 
   <project path="build" name="xdandroid/build" remote="gitorious">
@@ -159,6 +160,7 @@
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
+  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
@@ -184,6 +186,7 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
   <project path="system/extras" name="xdandroid/system_extras" remote="gitorious" />
+  <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
