@@ -184,7 +184,7 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk"  revision="tools_r7"/>
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="platform/system/core" />
+  <project path="system/core" name="xdandroid/system_core" remote="gitorious" />
   <project path="system/extras" name="xdandroid/system_extras" remote="gitorious" />
   <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master" />
   <project path="system/media" name="platform/system/media" />
