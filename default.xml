@@ -160,7 +160,7 @@
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
-  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
+  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="f2454d551aad8fc4b1fbe581a7726234630b5700" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
@@ -186,7 +186,7 @@
   <project path="system/bluetooth" name="xdandroid/system_bluetooth" remote="gitorious" />
   <project path="system/core" name="xdandroid/system_core" remote="gitorious" />
   <project path="system/extras" name="xdandroid/system_extras" remote="gitorious" />
-  <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master" />
+  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="91cd65c3d91967ddd2d095891735e0848b64cb71" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
