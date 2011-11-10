@@ -120,7 +120,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
 
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" />
+  <project path="hardware/libhardware" name="xdandroid/hardware_libhardware" remote="gitorious" />
   <project path="hardware/libhardware_legacy" name="xdandroid/hardware_libhardware_legacy" remote="gitorious" />
   <project path="hardware/msm7k" name="xdandroid/hardware_msm7k" remote="gitorious" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
