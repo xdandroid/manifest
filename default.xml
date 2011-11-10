@@ -7,6 +7,7 @@
            remote="korg" />
 
   <remote  name="github" fetch="git://github.com/" />
+  <remote  name="gitorious" fetch="git://gitorious.org/" />
 
   <project path="build" name="xdandroid/build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -119,7 +120,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
 
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" />
+  <project path="hardware/libhardware" name="xdandroid/hardware_libhardware" remote="gitorious" />
   <project path="hardware/libhardware_legacy" name="xdandroid/hardware_libhardware_legacy" remote="github" />
   <project path="hardware/msm7k" name="xdandroid/hardware_msm7k" remote="github" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
